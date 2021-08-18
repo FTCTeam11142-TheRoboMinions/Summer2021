@@ -24,14 +24,20 @@ public class C4_Ishika {
         int[] K2 = {90, 85, 70, 65, 60};
         //Math 90, Science 85, English 70, Orchestra 65, Choir 60
         int[] K3 = new int[5]; // THIS CAN ONLY STORE 1 NUMBER
-        int K4;
         System.out.println("Enter the grades for the third student");
         int []array = new int[5];
-        
         for(int i=0; i<5; i++)
         {
             K3[i] = sc.nextInt();
         }
+        int[] K4 = new int[5];
+        System.out.println("Enter the grades for the fourth student");
+        for(int i=0; i<5; i++) {
+            K4[i] = sc.nextInt();
+        }
+        
 
     }
 }
+
+

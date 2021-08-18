@@ -10,13 +10,36 @@ import java.util.Scanner;
  *             Rules:
  *                  1. Use sensible names
  *                  2. Use arrays, Scanner, Math class methods
- *                  3. Leave atleast 3 comments.
+ *                  3. Leave atleast comments.
  *                  
  */
- public class Challenge4
- {
-     // 
+ public class Challenge4 {
+     public static void main (String args[])
+     {
+     //Code for Challenge 4    
+    Scanner sc = new Scanner(System.in); 
+    int[] K1 = {70, 75, 80, 85, 90};
+    //Math 70, Science 75, English 80, Band 85, Art 90
+    int[] K2 = {90, 85, 70, 65, 60};
+    //Math 90, Science 85, English 70, Orchestra 65, Choir 60
+    int K3; 
+    int K4;
+    System.out.println("Enter the grades for the third student");
+     K3 = sc.nextInt();
+    int []array = new int[5];
+<<<<<<< HEAD
+    for(int i=0; i<K3; K3++){
+    }
  }
+}
+=======
+    for(int i=0; i<K3; K3++)
+
+   
+
+
+}  
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
     
     
     
