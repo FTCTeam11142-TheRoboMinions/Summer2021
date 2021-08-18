@@ -31,27 +31,23 @@ import java.util.Scanner;
  */
 public class Challenge3
 {
-    //Challenge 3 part 2 
-    
      public static void main(String args[]){
-          Scanner sc = new Scanner(System.in); 
-          System.out.println("Select a number");
-          int c = sc.nextInt();
-          System.out.println("Select a operator + for addition - for subtraction * for multiplication / for division");
-          
-          System.out.println ("select another number");
-          int d = sc.nextInt();
-          System.out.println ("Select another operator"); 
-          
+        //Code for C1.1
+int y = 1;
+//For loop 
+    for(y = 1; y<=2; y++)
+    {//"Statement",Condition,Output
+     System.out.println("#####");
+}
+//While loop
+        int x = 1;
+        while(x<=3)
+        {
+          System.out.println("#####");
+          //Will print out ##### until it the condition is false
+          x++;
+          //Will keep adding one to the next number until the condition is false
+}
 
-          
-          
-         
-     }
-     
-     
-    
-    
-
- 
+}
 }

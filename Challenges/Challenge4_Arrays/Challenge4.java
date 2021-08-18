@@ -27,8 +27,8 @@ import java.util.Scanner;
     System.out.println("Enter the grades for the third student");
      K3 = sc.nextInt();
     int []array = new int[5];
-    for(int i=0; i<K3; K3++)
-
+    for(int i=0; i<K3; K3++){
+    }
  }
 }
     
