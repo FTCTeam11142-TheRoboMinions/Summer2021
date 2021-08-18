@@ -1,4 +1,5 @@
 #BlueJ package file
+<<<<<<< HEAD
 objectbench.height=142
 objectbench.width=1416
 package.divider.horizontal=0.6
@@ -9,8 +10,20 @@ package.editor.x=0
 package.editor.y=25
 package.frame.height=813
 package.frame.width=1440
+=======
+objectbench.height=140
+objectbench.width=1258
+package.divider.horizontal=0.6
+package.divider.vertical=0.7687891440501045
+package.editor.height=484
+package.editor.width=1170
+package.editor.x=0
+package.editor.y=100
+package.frame.height=737
+package.frame.width=1297
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 package.numDependencies=0
-package.numTargets=1
+package.numTargets=2
 package.showExtends=true
 package.showUses=true
 readme.height=60
@@ -25,3 +38,10 @@ target1.type=ClassTarget
 target1.width=120
 target1.x=289
 target1.y=59
+target2.height=70
+target2.name=Car
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=120
+target2.x=10
+target2.y=110

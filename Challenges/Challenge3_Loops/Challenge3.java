@@ -30,7 +30,9 @@ import java.util.Scanner;
  * (Optional) C3.3: TBA
  */
 public class Challenge3
+
 {
+<<<<<<< HEAD
      public static void main(String args[]){
         //Code for C1.1
 int y = 1;
@@ -50,4 +52,38 @@ int y = 1;
 }
 
 }
+=======
+    //Challenge 3 part 1 
+    
+     public static void main(String args[]){
+       // for loop 
+       int b = 1; 
+       for (b=1; b < 4 ; b++) 
+       {
+        System.out.println("#####"); 
+    }
+       
+       
+    //while loop    
+       int a = 1;
+    while(a<3) 
+       {
+           System.out.println ("#####"); 
+           a++; 
+       } 
+    
+      
+      
+      
+          
+         
+     
+     
+     
+    
+    
+
+ 
+    } 
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 }
