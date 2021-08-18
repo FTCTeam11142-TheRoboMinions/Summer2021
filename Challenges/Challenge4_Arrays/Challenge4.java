@@ -27,10 +27,19 @@ import java.util.Scanner;
     System.out.println("Enter the grades for the third student");
      K3 = sc.nextInt();
     int []array = new int[5];
-    for(int i=0; i<K3; K3++)
-
+<<<<<<< HEAD
+    for(int i=0; i<K3; K3++){
+    }
  }
 }
+=======
+    for(int i=0; i<K3; K3++)
+
+   
+
+
+}  
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
     
     
     

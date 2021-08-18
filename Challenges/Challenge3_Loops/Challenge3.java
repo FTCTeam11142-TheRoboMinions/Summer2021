@@ -30,28 +30,60 @@ import java.util.Scanner;
  * (Optional) C3.3: TBA
  */
 public class Challenge3
+
 {
-    //Challenge 3 part 2 
+<<<<<<< HEAD
+     public static void main(String args[]){
+        //Code for C1.1
+int y = 1;
+//For loop 
+    for(y = 1; y<=2; y++)
+    {//"Statement",Condition,Output
+     System.out.println("#####");
+}
+//While loop
+        int x = 1;
+        while(x<=3)
+        {
+          System.out.println("#####");
+          //Will print out ##### until it the condition is false
+          x++;
+          //Will keep adding one to the next number until the condition is false
+}
+
+}
+=======
+    //Challenge 3 part 1 
     
      public static void main(String args[]){
-          Scanner sc = new Scanner(System.in); 
-          System.out.println("Select a number");
-          int c = sc.nextInt();
-          System.out.println("Select a operator + for addition - for subtraction * for multiplication / for division");
-          
-          System.out.println ("select another number");
-          int d = sc.nextInt();
-          System.out.println ("Select another operator"); 
-          
-
-          
+       // for loop 
+       int b = 1; 
+       for (b=1; b < 4 ; b++) 
+       {
+        System.out.println("#####"); 
+    }
+       
+       
+    //while loop    
+       int a = 1;
+    while(a<3) 
+       {
+           System.out.println ("#####"); 
+           a++; 
+       } 
+    
+      
+      
+      
           
          
-     }
+     
      
      
     
     
 
  
+    } 
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 }
