@@ -1,4 +1,16 @@
 #BlueJ package file
+<<<<<<< HEAD
+objectbench.height=194
+objectbench.width=1358
+package.divider.horizontal=0.6
+package.divider.vertical=0.7044117647058824
+package.editor.height=472
+package.editor.width=1265
+package.editor.x=57
+package.editor.y=31
+package.frame.height=744
+package.frame.width=1382
+=======
 objectbench.height=94
 objectbench.width=1254
 package.divider.horizontal=0.6
@@ -9,8 +21,9 @@ package.editor.x=0
 package.editor.y=1
 package.frame.height=685
 package.frame.width=1292
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 package.numDependencies=0
-package.numTargets=6
+package.numTargets=7
 package.showExtends=true
 package.showUses=true
 readme.height=60
@@ -23,15 +36,24 @@ target1.name=C3_1_Rithwick
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=120
-target1.x=420
-target1.y=180
+<<<<<<< HEAD
+target1.x=140
+target1.y=260
+=======
+target1.x=410
+target1.y=170
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 target2.height=70
 target2.name=Challenge2_Soln
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=130
 target2.x=140
+<<<<<<< HEAD
+target2.y=100
+=======
 target2.y=200
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 target3.height=70
 target3.name=Challenge3
 target3.showInterface=false
@@ -40,11 +62,25 @@ target3.width=120
 target3.x=210
 target3.y=20
 target4.height=70
+<<<<<<< HEAD
+target4.name=Robotcode
+=======
 target4.name=C3_Rithik
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 target4.showInterface=false
 target4.type=ClassTarget
 target4.width=120
 target4.x=10
+<<<<<<< HEAD
+target4.y=340
+target5.height=70
+target5.name=C3_Rithik
+target5.showInterface=false
+target5.type=ClassTarget
+target5.width=120
+target5.x=10
+target5.y=180
+=======
 target4.y=270
 target5.height=70
 target5.name=Robotcode
@@ -53,10 +89,28 @@ target5.type=ClassTarget
 target5.width=120
 target5.x=570
 target5.y=70
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
 target6.height=70
-target6.name=Challenge3_Soln2
+target6.name=C3_2_Rithwick
 target6.showInterface=false
 target6.type=ClassTarget
-target6.width=130
-target6.x=70
-target6.y=10
+target6.width=120
+<<<<<<< HEAD
+target6.x=10
+target6.y=260
+=======
+target6.x=140
+target6.y=100
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
+target7.height=70
+target7.name=Challenge3_Soln2
+target7.showInterface=false
+target7.type=ClassTarget
+target7.width=130
+<<<<<<< HEAD
+target7.x=140
+target7.y=180
+=======
+target7.x=70
+target7.y=10
+>>>>>>> 72bd79258fefd7fcf192fa2b0c77e8a3d57cc2fa
