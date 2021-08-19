@@ -14,9 +14,10 @@ public class Car
    private int ReleaseYear ;
    private int CarsInInventory ; 
    private double AvgMarket$Yearly;  
+   
    //constructor
-   public Car( String CMake, int Release, int Inventory, double AvgMarket)
    //make this name different than instance variables 
+   public Car( String CMake, int Release, int Inventory, double AvgMarket)
    {
      CarMake = CMake; 
      ReleaseYear = Release;
