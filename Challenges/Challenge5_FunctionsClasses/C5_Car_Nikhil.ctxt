@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=C5_Car_Nikhil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ C5_Car_Nikhil\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=brand\ year\ inv\ price
+comment1.target=C5_Car_Nikhil(java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getCarMake()
+comment3.params=
+comment3.target=int\ getReleaseYear()
+comment4.params=
+comment4.target=int\ getCarsInv()
+comment5.params=
+comment5.target=double\ getAvgPrice()
+comment6.params=inv
+comment6.target=int\ setCarsInv(int)
+numComments=7
