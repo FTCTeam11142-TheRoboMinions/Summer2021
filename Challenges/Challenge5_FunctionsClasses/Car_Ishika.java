@@ -39,8 +39,9 @@ package Challenges.Challenge5_FunctionsClasses;
  */
 public class Car_Ishika
 {
-    private String cMake;
     //Car Make
+    private String cMake;
+    
     private int rYear;
     //Release Year
     private int numCars;
